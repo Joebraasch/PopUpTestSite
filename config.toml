@@ -1,4 +1,4 @@
-baseurl = "http://example.com/"
+baseurl = "https://joebraasch.github.io/PopUpTestSite/"
 theme = "hugo-geo"
 publishDir = "docs"
 relativeURLs = false
