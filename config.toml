@@ -1,4 +1,5 @@
 baseurl = "https://joebraasch.github.io/PopUpTestSite/"
+themesDir = "themes"
 theme = "hugo-geo"
 publishDir = "docs"
 relativeURLs = false
