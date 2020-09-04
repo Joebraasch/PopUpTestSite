@@ -35,9 +35,6 @@ paginate = 5
 	faicon = "twitter"
 	url = "https://twitter.com/alexanderurq"
 	[[params.socialbuttons]]
-	faicon = "linkedin"
-	url = "https://linkedin.com"
-	[[params.socialbuttons]]
 	faicon = "google-plus"
 	url = "https://plus.google.com/+YourID"
 
