@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on My New Hugo Site</title>
+    <link>http://example.com/post/</link>
+    <description>Recent content in Posts on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 04 Sep 2020 14:31:24 -0500</lastBuildDate>
+    
+	<atom:link href="http://example.com/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>PopUp Poplars Updates</title>
+      <link>http://example.com/post/hello/</link>
+      <pubDate>Fri, 04 Sep 2020 14:31:24 -0500</pubDate>
+      
+      <guid>http://example.com/post/hello/</guid>
+      <description>9-4-2020
+We will be sending trees to all our arboretum partners in a few days. We are excited to see poplar gardens planted across the United States. Return to this site with updates about these gardens.</description>
+    </item>
+    
+  </channel>
+</rss>
